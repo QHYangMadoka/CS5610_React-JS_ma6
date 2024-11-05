@@ -9,4 +9,4 @@
 
 ![](demo.png)
 
-
+I completed the task for Extra Credit, `Parent.js` and `Child.js` receive data from `CellsContext.js` in components
