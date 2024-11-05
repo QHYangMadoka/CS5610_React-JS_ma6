@@ -7,6 +7,6 @@
 #### Step 3: Type `npm start` command in the terminal to start the app
 
 
-
+![](demo.png)
 
 
